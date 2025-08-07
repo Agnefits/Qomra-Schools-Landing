@@ -18,9 +18,9 @@
 ## صور من النظام
 
 ![Dashboard](dashboard.png)
-![تطبيق الطالب](student mobile app.png)
-![تطبيق المعلم](teacher mobile app.png)
-![تطبيق السائق](driver mobile app.png)
+![تطبيق الطالب](student%20mobile%20app.png)
+![تطبيق المعلم](teacher%20mobile%20app.png)
+![تطبيق السائق](driver%20mobile%20app.png)
 ![الملف المالي](finance.png)
 
 ## تواصل معنا
